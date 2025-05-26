@@ -1,1 +1,0 @@
-export const _PRODUCTION_BASE_URL = '/at-relax-house';
