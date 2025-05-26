@@ -1,0 +1,17 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background (optional, for visibility) -->
+  <rect width="32" height="32" fill="transparent"/>
+  
+  <!-- Sun circle -->
+  <circle cx="16" cy="16" r="8" fill="#FFC107"/>
+  
+  <!-- Sun rays (simplified for favicon size) -->
+  <rect x="15" y="2" width="2" height="6" fill="#FFC107"/>
+  <rect x="15" y="24" width="2" height="6" fill="#FFC107"/>
+  <rect x="2" y="15" width="6" height="2" fill="#FFC107"/>
+  <rect x="24" y="15" width="6" height="2" fill="#FFC107"/>
+  <rect x="5.5" y="5.5" width="2" height="6" transform="rotate(45 6.5 6.5)" fill="#FFC107"/>
+  <rect x="24.5" y="5.5" width="2" height="6" transform="rotate(-45 25.5 6.5)" fill="#FFC107"/>
+  <rect x="5.5" y="24.5" width="2" height="6" transform="rotate(-45 6.5 25.5)" fill="#FFC107"/>
+  <rect x="24.5" y="24.5" width="2" height="6" transform="rotate(45 25.5 25.5)" fill="#FFC107"/>
+</svg>
