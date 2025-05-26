@@ -1,0 +1,1 @@
+window.location.href="https://at-relax-house.github.io";
